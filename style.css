@@ -2,3 +2,44 @@
     border: solid whitesmoke 2px;
     border-radius: 10px;
 }
+.icon1{
+    width: 374px;
+height: 216px;
+border-radius: 16px;
+background: rgba(188, 237, 109, 0.10);
+}
+.icon2{
+    width: 374px;
+height: 216px;
+border-radius: 16px;
+background: rgba(253, 221, 95, 0.10);
+}
+.icon3{
+    width: 374px;
+height: 184px;
+border-radius: 16px;
+background: rgba(98, 156, 243, 0.10);
+
+}
+.name-input{
+    width: 324px;
+height: 64px;
+border-radius: 12px;
+}
+
+.input{
+    width: 324px;
+height: 64px;
+border-radius: 12px;
+color: black;
+color: white;
+padding: 15px;
+}
+.send-btn{
+    width: 100%;
+padding: 15px 24px;
+border-radius: 12px;
+border: 1px solid #FF4240;
+
+background: #FF4240;
+}
